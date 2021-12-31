@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 6c997bdabeab8b8cebc3ed1e7f6cc3838799f4bd drinel <will.i.am.002@hotmail.com> 1640211283 -0300	commit (initial): initial commit
+6c997bdabeab8b8cebc3ed1e7f6cc3838799f4bd 1e739e21ac6daf67d0dc351d150d7b14d90e0d74 drinel <will.i.am.002@hotmail.com> 1640213217 -0300	commit: Angular Material instalado
+1e739e21ac6daf67d0dc351d150d7b14d90e0d74 15818670c3e26ba0eaab462ca5bea71f0d4d41d6 drinel <will.i.am.002@hotmail.com> 1640215624 -0300	commit: Criação componentes header e footer
+15818670c3e26ba0eaab462ca5bea71f0d4d41d6 c9850fb2ca471efea6c017eaffada25295e25d37 drinel <will.i.am.002@hotmail.com> 1640217848 -0300	commit: Componente Nav
+c9850fb2ca471efea6c017eaffada25295e25d37 6d2ca8ec51538837644cc801b49b98c4e9d44d37 drinel <will.i.am.002@hotmail.com> 1640273683 -0300	commit: Home implementado com rota
+6d2ca8ec51538837644cc801b49b98c4e9d44d37 c88a2cd69e39917eb1ab3b07f3515d4303e4bd95 drinel <will.i.am.002@hotmail.com> 1640286035 -0300	commit: adicionar jquery
+c88a2cd69e39917eb1ab3b07f3515d4303e4bd95 8c32c6e2edafffe1d2341cb8fba46a534f246877 drinel <will.i.am.002@hotmail.com> 1640287145 -0300	commit: atualização angular
+8c32c6e2edafffe1d2341cb8fba46a534f246877 24d6e71305a090b13a75f3bae66d2d1b32824c36 drinel <will.i.am.002@hotmail.com> 1640287685 -0300	commit: update angular/material
+24d6e71305a090b13a75f3bae66d2d1b32824c36 38c7c99e864ccb1cbeeaeaab6e84ce748dfc33ac drinel <will.i.am.002@hotmail.com> 1640368476 -0300	commit: Categoria-red implementado
+38c7c99e864ccb1cbeeaeaab6e84ce748dfc33ac 4a32522a2e342a50ee493c63e9892be53b8bcbe5 drinel <will.i.am.002@hotmail.com> 1640371274 -0300	commit: Ajustes componente read
+4a32522a2e342a50ee493c63e9892be53b8bcbe5 7a1f58f86a12b20e74b8e394cccf246e9ebaf8f9 drinel <will.i.am.002@hotmail.com> 1640715857 -0300	commit: Metodo Create implementado para categoria
+7a1f58f86a12b20e74b8e394cccf246e9ebaf8f9 dfb9f1e7acc736bccc6bf45579be0030e7a56ff4 drinel <will.i.am.002@hotmail.com> 1640716444 -0300	commit: Criada função cancelar no metodo Create
+dfb9f1e7acc736bccc6bf45579be0030e7a56ff4 8c4a9ab271c4cf7dbac835f6a6846ac5cbdc2d48 drinel <will.i.am.002@hotmail.com> 1640735164 -0300	commit: Categoria Delete implementada
+8c4a9ab271c4cf7dbac835f6a6846ac5cbdc2d48 1d10f56e44fcb3fd3480abed20621741404cbd1a drinel <will.i.am.002@hotmail.com> 1640813271 -0300	commit: Update categoria implementado
+1d10f56e44fcb3fd3480abed20621741404cbd1a e42783a1e90894cbcc2a9cab5e17edf2e5148a91 drinel <will.i.am.002@hotmail.com> 1640816022 -0300	commit: Leitura livro por categoria implementado
+e42783a1e90894cbcc2a9cab5e17edf2e5148a91 9a36f69119019ea98d95bf7972c0bc0ea33e0c38 drinel <will.i.am.002@hotmail.com> 1640902233 -0300	commit: Update para livro implementado
+9a36f69119019ea98d95bf7972c0bc0ea33e0c38 d00d22e35e471a49923fc2ffb745eb2754232739 drinel <will.i.am.002@hotmail.com> 1640906213 -0300	commit: Delete para livro implementado
+d00d22e35e471a49923fc2ffb745eb2754232739 c38cb1655ded6e5279d965bccd30a056d410d5aa drinel <will.i.am.002@hotmail.com> 1640909693 -0300	commit: Read livro implementado
