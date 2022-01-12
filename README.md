@@ -14,3 +14,9 @@ Front-end utilizando o angular com html,css e typescript para consumir a api res
 Front-end implementado no github pages.
 
 Link para visualização no "About".
+
+
+![Capturar1](https://user-images.githubusercontent.com/26626189/149195225-9b8833cb-626d-4afb-b411-bb5d83f7ce04.PNG)
+![Capturar2](https://user-images.githubusercontent.com/26626189/149195231-6fcebff3-9bc4-46f0-a1ed-821918070579.PNG)
+![Capturar3](https://user-images.githubusercontent.com/26626189/149195233-2404d688-81b4-41e7-b0b5-7e9baede3240.PNG)
+
