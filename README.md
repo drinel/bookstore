@@ -14,6 +14,8 @@ Front-end utilizando componentes angular com html,css e typescript para consumir
 
 Front-end implementado no github pages.
 
+Pode haver uma pequena demora ao trazer os dados do back-end, devido ao heroku entrar em modo de hibernação. 
+
 Link para visualização no "About".
 
 
